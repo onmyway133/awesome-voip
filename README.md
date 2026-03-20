@@ -1,14 +1,5 @@
 # awesome voip [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-❤️ Support my app ❤️ 
-
-- [Push Hero - pure Swift native macOS application to test push notifications](https://www.producthunt.com/posts/push-hero-2)
-- [PastePal - Pasteboard, note and shortcut manager](https://www.producthunt.com/posts/pastepal)
-- [Frame recorder - Recorder gif and video with frame](https://www.producthunt.com/posts/frame-recorder)
-- [Other apps](https://onmyway133.github.io/projects/)
-
-❤️❤️😇😍🤘❤️❤️
-
 Before working with Windows Phone and iOS, my life involved researching VoIP. That was to build a C library for voice over IP functionality for a very popular app, and that was how I got started in open source.
 
 The library I was working with were [Linphone](https://www.linphone.org/) and [pjsip](http://pjsip.org/). I learn a lot of UDP and SIP protocol, how to build C library for consumption in iOS, Android and Windows Phone, how challenging it is to support C++ component and thread pool in Windows Phone 8, how to tweak entropy functionality in OpenSSL to make it compile in Windows Phone 8, how hard it was to debug C code with Android NDK. It was time when I needed to open Visual Studio, Xcode and Eclipse IDE at the same time, joined [mailing list](https://www.google.no/search?q=lists.pjsip.org+onmyway133&oq=lists.pjsip.org+onmyway133) and followed [gmane](http://dir.gmane.org/gmane.comp.voip.pjsip). Lots of good memories.
