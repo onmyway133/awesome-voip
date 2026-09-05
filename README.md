@@ -168,6 +168,8 @@ Learn about [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_L
 
 * [SIP TLS](https://www.voip-info.org/sip-tls): how to configure TLS in Asterisk
 
+* [Implementing Secure SIP Communications in ICTFax](https://www.ictfax.com/implementing-secure-sip-communications-in-ictfax/): TLS for signaling and SRTP for media on a FreeSWITCH based fax server, including the trunk and certificate steps
+
 ## ICE
 
 Learn about [Interactive Connectivity Establishment](https://en.wikipedia.org/wiki/Interactive_Connectivity_Establishment), another way to workaround NAT
