@@ -64,6 +64,8 @@ Here are some of the articles and open sources made by me regarding VoIP, hope y
 
 * [sipr](https://github.com/xmppjingle/sipr): A pure-Rust CLI SIP softphone — G.711/Opus codecs, adaptive jitter buffer, DTMF, call recording, hold/transfer (REFER), digest auth, DNS SRV. No GUI needed, just your terminal.
 
+* [Sipral](https://github.com/SIPRAL/sipral): a memory-safe SIP client stack in Rust with one C ABI and bindings for Swift, Kotlin, .NET, Python, Dart and React Native, for softphones, mobile apps and voice agents. AGPL-3.0 or commercial.
+
 * [SIP Retransmissions](https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions): what and how to handle retransmission
 
 * [draft-ietf-sipping-dialogusage-06](https://tools.ietf.org/html/draft-ietf-sipping-dialogusage-06): this is a draft about Multiple Dialog Usages in the Session Initiation Protocol
