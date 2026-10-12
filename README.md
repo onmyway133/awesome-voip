@@ -124,6 +124,7 @@ NAT solves the problem with lack of IP, but it causes lots of problem for SIP ap
 
 * [SIP NAT Traversal](https://voipstudio.com/sip-nat-traversal/): This is a must read. How to make SIP work under NAT
 
+* [17NAS NAT Test](https://17nas.com/nat-test.php): Free online NAT type test; check your NAT type, public IP and connectivity for gaming, VoIP and P2P, no signup.
 * [NAT and Firewall Traversal with STUN / TURN / ICE](http://www.viagenie.ca/publications/2008-09-24-astricon-stun-turn-ice.pdf): pjsip and Kamailio actually supports STUN, TURN and ICE protocol. Learn about these concepts and how to make it work
 
 * [Introduction to Network Address Translation (NAT) and NAT Traversal](http://www.pjsip.org/pjnath/docs/html/group__nat__intro.htm)
