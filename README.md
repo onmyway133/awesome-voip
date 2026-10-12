@@ -66,6 +66,8 @@ Here are some of the articles and open sources made by me regarding VoIP, hope y
 
 * [Sipral](https://github.com/SIPRAL/sipral): a memory-safe SIP client stack in Rust with one C ABI and bindings for Swift, Kotlin, .NET, Python, Dart and React Native, for softphones, mobile apps and voice agents. AGPL-3.0 or commercial.
 
+* [SolidPing](https://github.com/fclairamb/solidping): open-source uptime monitoring with a SIP check (OPTIONS or authenticated REGISTER over UDP, TCP or TLS)
+
 * [Choosing a SIP Trunk for VICIdial and AI Voice Bots](https://voiceoi.com/sip-trunk-guide): seven sourced checks to confirm with a SIP trunk carrier before sending outbound dialer or AI voice traffic: dialer policy, calls per second, concurrent channels, billing increments, caller ID and STIR/SHAKEN attestation, short calls and traceback. Vendor guide by VoiceOI (commercial).
 
 * [SIP Retransmissions](https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions): what and how to handle retransmission
