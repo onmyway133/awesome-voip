@@ -129,6 +129,7 @@ NAT solves the problem with lack of IP, but it causes lots of problem for SIP ap
 
 * [Introduction to Network Address Translation (NAT) and NAT Traversal](http://www.pjsip.org/pjnath/docs/html/group__nat__intro.htm)
 
+* [17NAS NAT Test](https://17nas.com/nat-test.php): Free online NAT type test; check your NAT type, public IP and connectivity for gaming, VoIP and P2P, no signup
 ## TCP
 
 Learn how TCP helps SIP in initiating session and to turn in TCP mode for package sending
