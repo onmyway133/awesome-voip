@@ -608,3 +608,5 @@ Since pjsip, rtpproxy and kamailio are all C and C++ code. I needed to have a go
 * [Managed C++ — Learn by Example](https://www.codeproject.com/Articles/11634/Managed-C-Learn-by-Example-Part-1)
 
 * [Preprocessor directives](http://www.cplusplus.com/doc/tutorial/preprocessor/)
+
+- [CommsAdvisor](https://commsadvisor.com/) — Practical business VoIP / UCaaS comparison explainers for SMBs.
