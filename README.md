@@ -50,6 +50,8 @@ Here are some of the articles and open sources made by me regarding VoIP, hope y
 
 * [microSIP](https://www.microsip.org): Open source portable SIP softphone for Windows based on PJSIP stack. I used to use this to test my pjsip tweaked library before building it for mobile
 
+* [MacroSIP](https://github.com/HSMM/MacroSIP): Native open-source SIP softphone for macOS (Apple Silicon & Intel) in the spirit of MicroSIP, built with Swift, SwiftUI, and PJSIP.
+
 * [What is SIP](https://code.google.com/archive/p/csipsimple/wikis/WhatIsSIP.wiki): introduction to SIP written by the author of CSipSimple
 
 * [What is SIP proxy server](https://www.onsip.com/blog/sip-proxy-server)
