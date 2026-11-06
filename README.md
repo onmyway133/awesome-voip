@@ -94,6 +94,8 @@ Here are some of the articles and open sources made by me regarding VoIP, hope y
 
 * [NAT Traversal Module](http://kamailio.org/docs/modules/3.0.x/modules_k/nat_traversal.html): how NAT traversal works in Kamailio as a module
 
+* [Ella IMS](https://github.com/ellanetworks/ims): IMS core (P-CSCF, I-CSCF, S-CSCF) in a single binary that adds VoLTE/VoNR voice and video calling to private 4G/5G networks, with IMS-AKA and IPsec.
+
 ## RFC
 
 RTP, SIP clients and server need to conform to some predefined protocols to meet standard and to be able to talk with each other. You need to read [RFC](https://en.wikipedia.org/wiki/Request_for_Comments) a lot, besides you need to read some drafts.
