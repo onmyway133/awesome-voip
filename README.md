@@ -96,6 +96,8 @@ Here are some of the articles and open sources made by me regarding VoIP, hope y
 
 * [Ella IMS](https://github.com/ellanetworks/ims): IMS core (P-CSCF, I-CSCF, S-CSCF) in a single binary that adds VoLTE/VoNR voice and video calling to private 4G/5G networks, with IMS-AKA and IPsec.
 
+* [FreeSWITCH Console](https://github.com/juki/freeswitch-console): web console for a running FreeSWITCH server, over its Event Socket. It shows registrations, gateways and calls live and explains why a call ended (hang-up cause, SIP status, the call's own log lines), which helps when learning how SIP calls fail. Has a demo mode with simulated switches
+
 ## RFC
 
 RTP, SIP clients and server need to conform to some predefined protocols to meet standard and to be able to talk with each other. You need to read [RFC](https://en.wikipedia.org/wiki/Request_for_Comments) a lot, besides you need to read some drafts.
