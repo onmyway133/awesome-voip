@@ -72,6 +72,8 @@ Here are some of the articles and open sources made by me regarding VoIP, hope y
 
 * [Choosing a SIP Trunk for VICIdial and AI Voice Bots](https://voiceoi.com/sip-trunk-guide): seven sourced checks to confirm with a SIP trunk carrier before sending outbound dialer or AI voice traffic: dialer policy, calls per second, concurrent channels, billing increments, caller ID and STIR/SHAKEN attestation, short calls and traceback. Vendor guide by VoiceOI (commercial).
 
+* [iphone-hat-koprusu](https://github.com/mustafayusufaksoy/iphone-hat-koprusu): a write-up for bridging the cellular line of a stock Android phone to SIP with Voice SIP Agent (pjsua2) and Shizuku, no root, over TLS + SRTP to a public registrar; covers inbound calls to iOS Linphone, outbound dialing via a SIP header and the gotchas found on a MediaTek device.
+
 * [SIP Retransmissions](https://wiki.asterisk.org/wiki/display/AST/SIP+Retransmissions): what and how to handle retransmission
 
 * [draft-ietf-sipping-dialogusage-06](https://tools.ietf.org/html/draft-ietf-sipping-dialogusage-06): this is a draft about Multiple Dialog Usages in the Session Initiation Protocol
