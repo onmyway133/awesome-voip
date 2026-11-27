@@ -242,6 +242,8 @@ Learn about voice quality, bandwidth and fixing delay in audio
 
 * [Voice Over IP — Per Call Bandwidth Consumption](https://www.cisco.com/c/en/us/support/docs/voice/voice-quality/7934-bwidth-consume.html)
 
+* [8kHz Raw RTP Full-Duplex Barge-In Lab](https://github.com/wangguode/ai-agent-voice/tree/main/01-voice-agent-rtp-bargein): open-source 8kHz G.711 RTP (ptime=20ms), adaptive jitter buffer, libsoxr VHQ upsampling, and 0.16ms ring-buffer flush benchmarked against TCP/WebSocket VoIP delay ([live WebAudio lab](https://hardcall.statementflow.win/#simulator))
+
 ## Echo
 
 This is a very common problem in VoIP, sometimes we hear voice from the other and also from us. Learn how echo is made, and how to effectively do echo cancellation
